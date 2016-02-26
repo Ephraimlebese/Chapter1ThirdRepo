@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="317" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-ZA; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Fri Feb 26 16:37:35 2016
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.creator">student</m>
+<m key="dc.date">Thu Feb 25 15:41:03 2016
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="29" edit-time="4584" last-saved="1456497455" uid="1c5dccd6-dbc5-11e5-8379-b508465cbe2a">
+<version id="26" started="1456407663" uid="88e7f966-dbcb-11e5-8379-b508465cbe2a" auto="0" top-xid="7"/>
+<version id="29" started="1456495691" uid="7a2e9e7c-dc96-11e5-9798-8f9a3a1e24cd" auto="0" top-xid="255"/>
+</history>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; bgcolor:transparent; widows:2; font-style:normal; text-indent:0in; text-position:normal; margin-bottom:0pt; font-weight:normal; line-height:1.0; text-align:left; font-variant:normal; text-decoration:none; margin-right:0pt; font-size:12pt; font-stretch:normal"/>
+</styles>
+<pagesize pagetype="A4" orientation="portrait" width="210.000000" height="297.000000" units="mm" page-scale="1.000000"/>
+<section xid="6" props="page-margin-footer:0.5000in; page-margin-header:0.5000in; page-margin-right:1.0000in; page-margin-left:1.0000in; page-margin-top:1.0000in; page-margin-bottom:1.0000in">
+<p style="Normal" xid="7">Ephraim Lebese<c></c></p>
+<p style="Normal" xid="1">211062642<c></c></p>
+<p style="Normal" xid="2"><c></c><c></c></p>
+<p style="Normal" xid="3">Assignment 1<c></c></p>
+<p style="Normal" xid="4"><c></c><c></c></p>
+<p style="Normal" xid="5" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold">i Initilaise git repository</c><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="8" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold"></c><c></c></p>
+<p style="Normal" xid="9" props="text-align:left; dom-dir:ltr">student@student-virtual-machine:~/Downloads/ActivityOne$ git init<c></c></p>
+<p style="Normal" xid="10" props="text-align:left; dom-dir:ltr">Initialized empty Git repository in /home/student/Downloads/ActivityOne/.git/<c></c></p>
+<p style="Normal" xid="11" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="12" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold">ii. Create a file in your repository and check the status and give the explanation of the status</c><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="13" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold"></c><c></c></p>
+<p style="Normal" xid="14" props="text-align:left; dom-dir:ltr">student@student-virtual-machine:~/Downloads/ActivityOne$ touch file1.txt<c></c></p>
+<p style="Normal" xid="15" props="text-align:left; dom-dir:ltr">student@student-virtual-machine:~/Downloads/ActivityOne$ git status<c></c></p>
+<p style="Normal" xid="16" props="text-align:left; dom-dir:ltr">On branch master<c></c></p>
+<p style="Normal" xid="17" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="18" props="text-align:left; dom-dir:ltr">Initial commit<c></c></p>
+<p style="Normal" xid="19" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="20" props="text-align:left; dom-dir:ltr">Untracked files:<c></c></p>
+<p style="Normal" xid="21" props="text-align:left; dom-dir:ltr">  (use "git add &lt;file&gt;..." to include in what will be committed)<c></c></p>
+<p style="Normal" xid="22" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="23" props="text-align:left; dom-dir:ltr">        .idea/<c></c></p>
+<p style="Normal" xid="24" props="text-align:left; dom-dir:ltr">        ActivityOne.iml<c></c></p>
+<p style="Normal" xid="25" props="text-align:left; dom-dir:ltr">        file1.txt<c></c></p>
+<p style="Normal" xid="26" props="text-align:left; dom-dir:ltr">        pom.xml<c></c></p>
+<p style="Normal" xid="27" props="text-align:left; dom-dir:ltr">        src/<c></c></p>
+<p style="Normal" xid="28" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="29" props="text-align:left; dom-dir:ltr">nothing added to commit but untracked files present (use "git add" to track)<c></c></p>
+<p style="Normal" xid="60" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="61" props="text-align:left; dom-dir:ltr">All files are not tracked by git<c></c></p>
+<p style="Normal" xid="30" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="31" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold">iii. Track he file that you just created and check status</c><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="32" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold"></c><c></c></p>
+<p style="Normal" xid="33" props="text-align:left; dom-dir:ltr">student@student-virtual-machine:~/Downloads/ActivityOne$ git add ActivityOne.iml file1.txt pom.xml <c></c></p>
+<p style="Normal" xid="34" props="text-align:left; dom-dir:ltr">student@student-virtual-machine:~/Downloads/ActivityOne$ git status<c></c></p>
+<p style="Normal" xid="35" props="text-align:left; dom-dir:ltr">On branch master<c></c></p>
+<p style="Normal" xid="36" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="37" props="text-align:left; dom-dir:ltr">Initial commit<c></c></p>
+<p style="Normal" xid="38" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="39" props="text-align:left; dom-dir:ltr">Changes to be committed:<c></c></p>
+<p style="Normal" xid="40" props="text-align:left; dom-dir:ltr">  (use "git rm --cached &lt;file&gt;..." to unstage)<c></c></p>
+<p style="Normal" xid="41" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="42" props="text-align:left; dom-dir:ltr">        new file:   .idea/.name<c></c></p>
+<p style="Normal" xid="43" props="text-align:left; dom-dir:ltr">        new file:   .idea/compiler.xml<c></c></p>
+<p style="Normal" xid="44" props="text-align:left; dom-dir:ltr">        new file:   .idea/copyright/profiles_settings.xml<c></c></p>
+<p style="Normal" xid="45" props="text-align:left; dom-dir:ltr">        new file:   .idea/encodings.xml<c></c></p>
+<p style="Normal" xid="46" props="text-align:left; dom-dir:ltr">        new file:   .idea/libraries/Maven__junit_junit_3_8_1.xml<c></c></p>
+<p style="Normal" xid="47" props="text-align:left; dom-dir:ltr">        new file:   .idea/misc.xml<c></c></p>
+<p style="Normal" xid="48" props="text-align:left; dom-dir:ltr">        new file:   .idea/modules.xml<c></c></p>
+<p style="Normal" xid="49" props="text-align:left; dom-dir:ltr">        new file:   .idea/scopes/scope_settings.xml<c></c></p>
+<p style="Normal" xid="50" props="text-align:left; dom-dir:ltr">        new file:   .idea/vcs.xml<c></c></p>
+<p style="Normal" xid="51" props="text-align:left; dom-dir:ltr">        new file:   .idea/workspace.xml<c></c></p>
+<p style="Normal" xid="52" props="text-align:left; dom-dir:ltr">        new file:   ActivityOne.iml<c></c></p>
+<p style="Normal" xid="53" props="text-align:left; dom-dir:ltr">        new file:   file1.txt<c></c></p>
+<p style="Normal" xid="54" props="text-align:left; dom-dir:ltr">        new file:   pom.xml<c></c></p>
+<p style="Normal" xid="55" props="text-align:left; dom-dir:ltr">        new file:   src/main/java/ActivityOne/App.java<c></c></p>
+<p style="Normal" xid="56" props="text-align:left; dom-dir:ltr">        new file:   src/test/java/ActivityOne/AppTest.java<c></c></p>
+<p style="Normal" xid="57" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="58" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="59" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold">iv. Committ the file to your repository , check the status and give an explanation</c><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="62" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold"></c><c></c></p>
+<p style="Normal" xid="63" props="text-align:left; dom-dir:ltr">student@student-virtual-machine:~/Downloads/ActivityOne$ git commit -m 'Initial commit'<c></c></p>
+<p style="Normal" xid="64" props="text-align:left; dom-dir:ltr">[master (root-commit) 44bd7c8] Initial commit<c></c></p>
+<p style="Normal" xid="65" props="text-align:left; dom-dir:ltr"> 15 files changed, 642 insertions(+)<c></c></p>
+<p style="Normal" xid="66" props="text-align:left; dom-dir:ltr"> create mode 100644 .idea/.name<c></c></p>
+<p style="Normal" xid="67" props="text-align:left; dom-dir:ltr"> create mode 100644 .idea/compiler.xml<c></c></p>
+<p style="Normal" xid="68" props="text-align:left; dom-dir:ltr"> create mode 100644 .idea/copyright/profiles_settings.xml<c></c></p>
+<p style="Normal" xid="69" props="text-align:left; dom-dir:ltr"> create mode 100644 .idea/encodings.xml<c></c></p>
+<p style="Normal" xid="70" props="text-align:left; dom-dir:ltr"> create mode 100644 .idea/libraries/Maven__junit_junit_3_8_1.xml<c></c></p>
+<p style="Normal" xid="71" props="text-align:left; dom-dir:ltr"> create mode 100644 .idea/misc.xml<c></c></p>
+<p style="Normal" xid="72" props="text-align:left; dom-dir:ltr"> create mode 100644 .idea/modules.xml<c></c></p>
+<p style="Normal" xid="73" props="text-align:left; dom-dir:ltr"> create mode 100644 .idea/scopes/scope_settings.xml<c></c></p>
+<p style="Normal" xid="74" props="text-align:left; dom-dir:ltr"> create mode 100644 .idea/vcs.xml<c></c></p>
+<p style="Normal" xid="75" props="text-align:left; dom-dir:ltr"> create mode 100644 .idea/workspace.xml<c></c></p>
+<p style="Normal" xid="76" props="text-align:left; dom-dir:ltr"> create mode 100644 ActivityOne.iml<c></c></p>
+<p style="Normal" xid="77" props="text-align:left; dom-dir:ltr"> create mode 100644 file1.txt<c></c></p>
+<p style="Normal" xid="78" props="text-align:left; dom-dir:ltr"> create mode 100644 pom.xml<c></c></p>
+<p style="Normal" xid="79" props="text-align:left; dom-dir:ltr"> create mode 100644 src/main/java/ActivityOne/App.java<c></c></p>
+<p style="Normal" xid="80" props="text-align:left; dom-dir:ltr"> create mode 100644 src/test/java/ActivityOne/AppTest.java<c></c></p>
+<p style="Normal" xid="81" props="text-align:left; dom-dir:ltr">student@student-virtual-machine:~/Downloads/ActivityOne$ git status<c></c></p>
+<p style="Normal" xid="82" props="text-align:left; dom-dir:ltr">On branch master<c></c></p>
+<p style="Normal" xid="83" props="text-align:left; dom-dir:ltr">Changes not staged for commit:<c></c></p>
+<p style="Normal" xid="84" props="text-align:left; dom-dir:ltr">  (use "git add &lt;file&gt;..." to update what will be committed)<c></c></p>
+<p style="Normal" xid="85" props="text-align:left; dom-dir:ltr">  (use "git checkout -- &lt;file&gt;..." to discard changes in working directory)<c></c></p>
+<p style="Normal" xid="86" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="87" props="text-align:left; dom-dir:ltr">        modified:   .idea/workspace.xml<c></c></p>
+<p style="Normal" xid="88" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="89" props="text-align:left; dom-dir:ltr">no changes added to commit (use "git add" and/or "git commit -a")<c></c></p>
+<p style="Normal" xid="90" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="91" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold">v. Create three more files and check the status and explain why the files are in the states they are in</c><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="92" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold"></c><c></c></p>
+<p style="Normal" xid="93" props="text-align:left; dom-dir:ltr">student@student-virtual-machine:~/Downloads/ActivityOne$ touch file2.txt file3.txt<c></c></p>
+<p style="Normal" xid="94" props="text-align:left; dom-dir:ltr">student@student-virtual-machine:~/Downloads/ActivityOne$ git status<c></c></p>
+<p style="Normal" xid="95" props="text-align:left; dom-dir:ltr">On branch master<c></c></p>
+<p style="Normal" xid="96" props="text-align:left; dom-dir:ltr">Changes not staged for commit:<c></c></p>
+<p style="Normal" xid="97" props="text-align:left; dom-dir:ltr">  (use "git add &lt;file&gt;..." to update what will be committed)<c></c></p>
+<p style="Normal" xid="98" props="text-align:left; dom-dir:ltr">  (use "git checkout -- &lt;file&gt;..." to discard changes in working directory)<c></c></p>
+<p style="Normal" xid="99" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="100" props="text-align:left; dom-dir:ltr">        modified:   .idea/workspace.xml<c></c></p>
+<p style="Normal" xid="101" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="102" props="text-align:left; dom-dir:ltr">Untracked files:<c></c></p>
+<p style="Normal" xid="103" props="text-align:left; dom-dir:ltr">  (use "git add &lt;file&gt;..." to include in what will be committed)<c></c></p>
+<p style="Normal" xid="104" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="105" props="text-align:left; dom-dir:ltr">        file2.txt<c></c></p>
+<p style="Normal" xid="106" props="text-align:left; dom-dir:ltr">        file3.txt<c></c></p>
+<p style="Normal" xid="107" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="108" props="text-align:left; dom-dir:ltr">no changes added to commit (use "git add" and/or "git commit -a")<c></c></p>
+<p style="Normal" xid="130" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="131" props="text-align:left; dom-dir:ltr">file2 and file3 are untracked because they are not added yet<c></c></p>
+<p style="Normal" xid="109" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="110" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold">vi. Make Changes to the file you committed and check the status</c><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="111" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold"></c><c></c></p>
+<p style="Normal" xid="112" props="text-align:left; dom-dir:ltr">student@student-virtual-machine:~/Downloads/ActivityOne$ git status<c></c></p>
+<p style="Normal" xid="113" props="text-align:left; dom-dir:ltr">On branch master<c></c></p>
+<p style="Normal" xid="114" props="text-align:left; dom-dir:ltr">Changes not staged for commit:<c></c></p>
+<p style="Normal" xid="115" props="text-align:left; dom-dir:ltr">  (use "git add &lt;file&gt;..." to update what will be committed)<c></c></p>
+<p style="Normal" xid="116" props="text-align:left; dom-dir:ltr">  (use "git checkout -- &lt;file&gt;..." to discard changes in working directory)<c></c></p>
+<p style="Normal" xid="117" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="118" props="text-align:left; dom-dir:ltr">        modified:   .idea/workspace.xml<c></c></p>
+<p style="Normal" xid="119" props="text-align:left; dom-dir:ltr">        modified:   file1.txt<c></c></p>
+<p style="Normal" xid="120" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="121" props="text-align:left; dom-dir:ltr">Untracked files:<c></c></p>
+<p style="Normal" xid="122" props="text-align:left; dom-dir:ltr">  (use "git add &lt;file&gt;..." to include in what will be committed)<c></c></p>
+<p style="Normal" xid="123" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="124" props="text-align:left; dom-dir:ltr">        .idea/uiDesigner.xml<c></c></p>
+<p style="Normal" xid="125" props="text-align:left; dom-dir:ltr">        file2.txt<c></c></p>
+<p style="Normal" xid="126" props="text-align:left; dom-dir:ltr">        file3.txt<c></c></p>
+<p style="Normal" xid="127" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="128" props="text-align:left; dom-dir:ltr">no changes added to commit (use "git add" and/or "git commit -a")<c></c></p>
+<p style="Normal" xid="129" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="132" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold">vii. Now track the two files that you added above and give the explanation of your status output</c><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="133" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold"></c><c></c></p>
+<p style="Normal" xid="134" props="text-align:left; dom-dir:ltr">student@student-virtual-machine:~/Downloads/ActivityOne$ git add .idea/ file2.txt file3.txt <c></c></p>
+<p style="Normal" xid="135" props="text-align:left; dom-dir:ltr">student@student-virtual-machine:~/Downloads/ActivityOne$ git status<c></c></p>
+<p style="Normal" xid="136" props="text-align:left; dom-dir:ltr">On branch master<c></c></p>
+<p style="Normal" xid="137" props="text-align:left; dom-dir:ltr">Changes to be committed:<c></c></p>
+<p style="Normal" xid="138" props="text-align:left; dom-dir:ltr">  (use "git reset HEAD &lt;file&gt;..." to unstage)<c></c></p>
+<p style="Normal" xid="139" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="140" props="text-align:left; dom-dir:ltr">        new file:   .idea/uiDesigner.xml<c></c></p>
+<p style="Normal" xid="141" props="text-align:left; dom-dir:ltr">        modified:   .idea/workspace.xml<c></c></p>
+<p style="Normal" xid="142" props="text-align:left; dom-dir:ltr">        new file:   file2.txt<c></c></p>
+<p style="Normal" xid="143" props="text-align:left; dom-dir:ltr">        new file:   file3.txt<c></c></p>
+<p style="Normal" xid="144" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="145" props="text-align:left; dom-dir:ltr">Changes not staged for commit:<c></c></p>
+<p style="Normal" xid="146" props="text-align:left; dom-dir:ltr">  (use "git add &lt;file&gt;..." to update what will be committed)<c></c></p>
+<p style="Normal" xid="147" props="text-align:left; dom-dir:ltr">  (use "git checkout -- &lt;file&gt;..." to discard changes in working directory)<c></c></p>
+<p style="Normal" xid="148" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="149" props="text-align:left; dom-dir:ltr">        modified:   file1.txt<c></c></p>
+<p style="Normal" xid="151" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="150" props="text-align:left; dom-dir:ltr">the two files are added and ready to be committed and file1 is not tracked<c></c></p>
+<p style="Normal" xid="152" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="153" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold"></c><c></c></p>
+<p style="Normal" xid="155" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold"></c><c props="font-weight:bold">viii. Commit the modified file ad check the status</c></p>
+<p style="Normal" xid="154" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold"></c><c></c></p>
+<p style="Normal" xid="156" props="text-align:left; dom-dir:ltr">student@student-virtual-machine:~/Downloads/ActivityOne$ git add file1.txt <c></c></p>
+<p style="Normal" xid="157" props="text-align:left; dom-dir:ltr">student@student-virtual-machine:~/Downloads/ActivityOne$ git commit -m 'Initial commit'<c></c></p>
+<p style="Normal" xid="158" props="text-align:left; dom-dir:ltr">[master 83f358d] Initial commit<c></c></p>
+<p style="Normal" xid="159" props="text-align:left; dom-dir:ltr"> 5 files changed, 318 insertions(+), 25 deletions(-)<c></c></p>
+<p style="Normal" xid="160" props="text-align:left; dom-dir:ltr"> create mode 100644 .idea/uiDesigner.xml<c></c></p>
+<p style="Normal" xid="161" props="text-align:left; dom-dir:ltr"> create mode 100644 file2.txt<c></c></p>
+<p style="Normal" xid="162" props="text-align:left; dom-dir:ltr"> create mode 100644 file3.txt<c></c></p>
+<p style="Normal" xid="163" props="text-align:left; dom-dir:ltr">student@student-virtual-machine:~/Downloads/ActivityOne$ git status<c></c></p>
+<p style="Normal" xid="164" props="text-align:left; dom-dir:ltr">On branch master<c></c></p>
+<p style="Normal" xid="165" props="text-align:left; dom-dir:ltr">Changes not staged for commit:<c></c></p>
+<p style="Normal" xid="166" props="text-align:left; dom-dir:ltr">  (use "git add &lt;file&gt;..." to update what will be committed)<c></c></p>
+<p style="Normal" xid="167" props="text-align:left; dom-dir:ltr">  (use "git checkout -- &lt;file&gt;..." to discard changes in working directory)<c></c></p>
+<p style="Normal" xid="168" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="169" props="text-align:left; dom-dir:ltr">        modified:   .idea/workspace.xml<c></c></p>
+<p style="Normal" xid="170" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="171" props="text-align:left; dom-dir:ltr">no changes added to commit (use "git add" and/or "git commit -a")<c></c></p>
+<p style="Normal" xid="172" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="173" props="text-align:left; dom-dir:ltr">file1 was added and committed along with all the other files which are tracked<c></c></p>
+<p style="Normal" xid="174" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="176" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold">ix. Get the output of the Short Status of your repo</c><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="178" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold"></c><c></c></p>
+<p style="Normal" xid="175" props="text-align:left; dom-dir:ltr">student@student-virtual-machine:~/Downloads/ActivityOne$ git status -s<c></c></p>
+<p style="Normal" xid="179" props="text-align:left; dom-dir:ltr"> M .idea/workspace.xml<c></c></p>
+<p style="Normal" xid="180" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="181" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold">x. Ensure that Git ignores one of the three files that you have created above</c><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="182" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold"></c><c></c></p>
+<p style="Normal" xid="183" props="text-align:left; dom-dir:ltr">student@student-virtual-machine:~/Downloads/ActivityOne$ touch .gitignore<c></c></p>
+<p style="Normal" xid="202" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="203" props="text-align:left; dom-dir:ltr">file to be ignored is included in the .gitignore file<c></c></p>
+<p style="Normal" xid="199" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="200" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold">xi. Get the status of the changes that you made to your repository</c><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="201" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="184" props="text-align:left; dom-dir:ltr">student@student-virtual-machine:~/Downloads/ActivityOne$ git status <c></c></p>
+<p style="Normal" xid="185" props="text-align:left; dom-dir:ltr">On branch master<c></c></p>
+<p style="Normal" xid="186" props="text-align:left; dom-dir:ltr">Changes not staged for commit:<c></c></p>
+<p style="Normal" xid="187" props="text-align:left; dom-dir:ltr">  (use "git add &lt;file&gt;..." to update what will be committed)<c></c></p>
+<p style="Normal" xid="188" props="text-align:left; dom-dir:ltr">  (use "git checkout -- &lt;file&gt;..." to discard changes in working directory)<c></c></p>
+<p style="Normal" xid="189" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="190" props="text-align:left; dom-dir:ltr">        modified:   .idea/workspace.xml<c></c></p>
+<p style="Normal" xid="191" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="192" props="text-align:left; dom-dir:ltr">Untracked files:<c></c></p>
+<p style="Normal" xid="193" props="text-align:left; dom-dir:ltr">  (use "git add &lt;file&gt;..." to include in what will be committed)<c></c></p>
+<p style="Normal" xid="194" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="195" props="text-align:left; dom-dir:ltr">        .gitignore<c></c></p>
+<p style="Normal" xid="196" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="197" props="text-align:left; dom-dir:ltr">no changes added to commit (use "git add" and/or "git commit -a")<c></c></p>
+<p style="Normal" xid="198" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="204" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold"></c><c></c></p>
+<p style="Normal" xid="205" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold"></c><c></c></p>
+<p style="Normal" xid="206" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold"></c><c props="font-weight:bold">xii. Remove one of the three files that you had created and are tracking. Get the status and give an explanation</c></p>
+<p style="Normal" xid="208" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold"></c><c></c></p>
+<p style="Normal" xid="209" props="text-align:left; dom-dir:ltr">student@student-virtual-machine:~/Downloads/ActivityOne$ git rm file3.txt <c></c></p>
+<p style="Normal" xid="210" props="text-align:left; dom-dir:ltr">rm 'file3.txt'<c></c></p>
+<p style="Normal" xid="211" props="text-align:left; dom-dir:ltr">student@student-virtual-machine:~/Downloads/ActivityOne$ git status<c></c></p>
+<p style="Normal" xid="212" props="text-align:left; dom-dir:ltr">On branch master<c></c></p>
+<p style="Normal" xid="213" props="text-align:left; dom-dir:ltr">Changes to be committed:<c></c></p>
+<p style="Normal" xid="214" props="text-align:left; dom-dir:ltr">  (use "git reset HEAD &lt;file&gt;..." to unstage)<c></c></p>
+<p style="Normal" xid="215" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="216" props="text-align:left; dom-dir:ltr">        deleted:    file3.txt<c></c></p>
+<p style="Normal" xid="217" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="218" props="text-align:left; dom-dir:ltr">Changes not staged for commit:<c></c></p>
+<p style="Normal" xid="219" props="text-align:left; dom-dir:ltr">  (use "git add &lt;file&gt;..." to update what will be committed)<c></c></p>
+<p style="Normal" xid="220" props="text-align:left; dom-dir:ltr">  (use "git checkout -- &lt;file&gt;..." to discard changes in working directory)<c></c></p>
+<p style="Normal" xid="221" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="222" props="text-align:left; dom-dir:ltr">        modified:   .idea/workspace.xml<c></c></p>
+<p style="Normal" xid="223" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="224" props="text-align:left; dom-dir:ltr">Untracked files:<c></c></p>
+<p style="Normal" xid="225" props="text-align:left; dom-dir:ltr">  (use "git add &lt;file&gt;..." to include in what will be committed)<c></c></p>
+<p style="Normal" xid="226" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="227" props="text-align:left; dom-dir:ltr">        .gitignore<c></c></p>
+<p style="Normal" xid="228" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="229" props="text-align:left; dom-dir:ltr">file3 has been removed from the staging area so it wont be committed to the repo<c></c></p>
+<p style="Normal" xid="230" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="231" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold">xiii. Get the output of your committ History</c><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="232" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold"></c><c></c></p>
+<p style="Normal" xid="233" props="text-align:left; dom-dir:ltr">student@student-virtual-machine:~/Downloads/ActivityOne$ git log<c></c></p>
+<p style="Normal" xid="234" props="text-align:left; dom-dir:ltr">commit 83f358d07bd6ed00cbc319b5024eda1f2f575d54<c></c></p>
+<p style="Normal" xid="235" props="text-align:left; dom-dir:ltr">Author: Ephraim &lt;lebesee@gmail.com&gt;<c></c></p>
+<p style="Normal" xid="236" props="text-align:left; dom-dir:ltr">Date:   Thu Feb 25 16:05:58 2016 +0200<c></c></p>
+<p style="Normal" xid="237" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="238" props="text-align:left; dom-dir:ltr">    Initial commit<c></c></p>
+<p style="Normal" xid="239" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="240" props="text-align:left; dom-dir:ltr">commit 44bd7c8980952e1180c6c7e8f3ee0fc319807e46<c></c></p>
+<p style="Normal" xid="241" props="text-align:left; dom-dir:ltr">Author: Ephraim &lt;lebesee@gmail.com&gt;<c></c></p>
+<p style="Normal" xid="242" props="text-align:left; dom-dir:ltr">Date:   Thu Feb 25 15:50:39 2016 +0200<c></c></p>
+<p style="Normal" xid="243" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="244" props="text-align:left; dom-dir:ltr">    Initial commit<c></c></p>
+<p style="Normal" xid="245" props="text-align:left; dom-dir:ltr">:<c></c></p>
+<p style="Normal" xid="246" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="247" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold; font-size:14pt">Section 3</c><c props="font-weight:bold; font-size:14pt"></c></p>
+<p style="Normal" xid="248" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold; font-size:14pt"></c><c></c></p>
+<p style="Normal" xid="249" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold">i. In your GitHub account, creaete a respository and clone it onto you PC and ensure that you put it in a different directory</c></p>
+<p style="Normal" xid="250" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="251" props="text-align:left; dom-dir:ltr"><c>student@student-virtual-machine:~/Downloads/ActivityOne$ git clone https://github.com/Ephraimlebese/Chaper1Execises.git myproject</c></p>
+<p style="Normal" xid="259" props="text-align:left; dom-dir:ltr"><c>Cloning into 'myproject'...</c></p>
+<p style="Normal" xid="260" props="text-align:left; dom-dir:ltr"><c>warning: You appear to have cloned an empty repository.</c></p>
+<p style="Normal" xid="261" props="text-align:left; dom-dir:ltr"><c>Checking connectivity... done.</c></p>
+<p style="Normal" xid="262" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="256" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold">ii. Show your full remotes on your local machine using a git command and take asnapshort</c></p>
+<p style="Normal" xid="257" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="263" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="258" props="text-align:left; dom-dir:ltr"><c>student@student-virtual-machine:~/Downloads/ActivityOne/myproject$ git remote</c></p>
+<p style="Normal" xid="264" props="text-align:left; dom-dir:ltr"><c>origin</c></p>
+<p style="Normal" xid="265" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="266" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold">ii. Add a file to your repo and push he file to GitHub</c></p>
+<p style="Normal" xid="267" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="268" props="text-align:left; dom-dir:ltr"><c>student@student-virtual-machine:~/Downloads/ActivityOne/myproject$ touch file1.txt</c></p>
+<p style="Normal" xid="269" props="text-align:left; dom-dir:ltr"><c>student@student-virtual-machine:~/Downloads/ActivityOne/myproject$ git add file1.txt </c></p>
+<p style="Normal" xid="270" props="text-align:left; dom-dir:ltr"><c>student@student-virtual-machine:~/Downloads/ActivityOne/myproject$ git commit -m 'Initial Commit'</c></p>
+<p style="Normal" xid="271" props="text-align:left; dom-dir:ltr"><c>[master (root-commit) b599450] Initial Commit</c></p>
+<p style="Normal" xid="272" props="text-align:left; dom-dir:ltr"><c> 1 file changed, 0 insertions(+), 0 deletions(-)</c></p>
+<p style="Normal" xid="273" props="text-align:left; dom-dir:ltr"><c> create mode 100644 file1.txt</c></p>
+<p style="Normal" xid="274" props="text-align:left; dom-dir:ltr"><c>student@student-virtual-machine:~/Downloads/ActivityOne/myproject$ git remote add firstProject https://github.com/Ephraimlebese/Chaper1Execises</c></p>
+<p style="Normal" xid="275" props="text-align:left; dom-dir:ltr"><c>student@student-virtual-machine:~/Downloads/ActivityOne/myproject$ git push firstProject master</c></p>
+<p style="Normal" xid="276" props="text-align:left; dom-dir:ltr"><c>Username for 'https://github.com': lebesee@gmail.com</c></p>
+<p style="Normal" xid="277" props="text-align:left; dom-dir:ltr"><c>Password for 'https://lebesee@gmail.com@github.com': </c></p>
+<p style="Normal" xid="278" props="text-align:left; dom-dir:ltr"><c>Counting objects: 3, done.</c></p>
+<p style="Normal" xid="279" props="text-align:left; dom-dir:ltr"><c>Writing objects: 100% (3/3), 221 bytes | 0 bytes/s, done.</c></p>
+<p style="Normal" xid="280" props="text-align:left; dom-dir:ltr"><c>Total 3 (delta 0), reused 0 (delta 0)</c></p>
+<p style="Normal" xid="281" props="text-align:left; dom-dir:ltr"><c>To https://github.com/Ephraimlebese/Chaper1Execises</c></p>
+<p style="Normal" xid="282" props="text-align:left; dom-dir:ltr"><c> * [new branch]      master -&gt; master</c></p>
+<p style="Normal" xid="283" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="284" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold">iii. Create Another Git Repo and add any other file to the remote repository and again show full remotes for yourrepository</c></p>
+<p style="Normal" xid="285" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="287" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="286" props="text-align:left; dom-dir:ltr"><c>student@student-virtual-machine:~/Desktop/Chapter1$ git init</c></p>
+<p style="Normal" xid="288" props="text-align:left; dom-dir:ltr"><c>Initialized empty Git repository in /home/student/Desktop/Chapter1/.git/</c></p>
+<p style="Normal" xid="289" props="text-align:left; dom-dir:ltr"><c>student@student-virtual-machine:~/Desktop/Chapter1$ git add New.txt </c></p>
+<p style="Normal" xid="290" props="text-align:left; dom-dir:ltr"><c>student@student-virtual-machine:~/Desktop/Chapter1$ git commit -m 'Initial commit'</c></p>
+<p style="Normal" xid="291" props="text-align:left; dom-dir:ltr"><c>[master (root-commit) bbcc4a9] Initial commit</c></p>
+<p style="Normal" xid="292" props="text-align:left; dom-dir:ltr"><c> 1 file changed, 1 insertion(+)</c></p>
+<p style="Normal" xid="293" props="text-align:left; dom-dir:ltr"><c> create mode 100644 New.txt</c></p>
+<p style="Normal" xid="294" props="text-align:left; dom-dir:ltr"><c>student@student-virtual-machine:~/Desktop/Chapter1$ git remote add projectTwo https://github.com/Ephraimlebese/Chapter1SecondRepo.git</c></p>
+<p style="Normal" xid="295" props="text-align:left; dom-dir:ltr"><c>student@student-virtual-machine:~/Desktop/Chapter1$ git push projectTwo master </c></p>
+<p style="Normal" xid="296" props="text-align:left; dom-dir:ltr"><c>Username for 'https://github.com': lebesee@gmail.com</c></p>
+<p style="Normal" xid="297" props="text-align:left; dom-dir:ltr"><c>Password for 'https://lebesee@gmail.com@github.com': </c></p>
+<p style="Normal" xid="298" props="text-align:left; dom-dir:ltr"><c>Counting objects: 3, done.</c></p>
+<p style="Normal" xid="299" props="text-align:left; dom-dir:ltr"><c>Writing objects: 100% (3/3), 220 bytes | 0 bytes/s, done.</c></p>
+<p style="Normal" xid="300" props="text-align:left; dom-dir:ltr"><c>Total 3 (delta 0), reused 0 (delta 0)</c></p>
+<p style="Normal" xid="301" props="text-align:left; dom-dir:ltr"><c>To https://github.com/Ephraimlebese/Chapter1SecondRepo.git</c></p>
+<p style="Normal" xid="302" props="text-align:left; dom-dir:ltr"><c> * [new branch]      master -&gt; master</c></p>
+<p style="Normal" xid="303" props="text-align:left; dom-dir:ltr"><c>student@student-virtual-machine:~/Desktop/Chapter1$ cd</c></p>
+<p style="Normal" xid="304" props="text-align:left; dom-dir:ltr"><c>student@student-virtual-machine:~$ git remote</c></p>
+<p style="Normal" xid="305" props="text-align:left; dom-dir:ltr"><c>fatal: Not a git repository (or any of the parent directories): .git</c></p>
+<p style="Normal" xid="306" props="text-align:left; dom-dir:ltr"><c>student@student-virtual-machine:~$ cd Desktop/Chapter1/</c></p>
+<p style="Normal" xid="307" props="text-align:left; dom-dir:ltr"><c>student@student-virtual-machine:~/Desktop/Chapter1$ git remote</c></p>
+<p style="Normal" xid="308" props="text-align:left; dom-dir:ltr"><c>projectTwo</c></p>
+<p style="Normal" xid="309" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="310" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold">iv. Get the contents of the remote repository in and merge it into your local repo</c></p>
+<p style="Normal" xid="311" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="312" props="text-align:left; dom-dir:ltr"><c>student@student-virtual-machine:~/Desktop/Chapter1$ git fetch projectTwo </c></p>
+<p style="Normal" xid="313" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="314" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="315" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold">v. Create another git repository and add another repo repository.</c></p>
+<p style="Normal" xid="316" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="317" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold"></c></p>
+</section>
+</abiword>
